@@ -1,0 +1,5 @@
+#summary Info page accessible from the menu of the application.
+
+= SMS Backup =
+
+This application allows you to backup SMS on your Android device to Gmail.
