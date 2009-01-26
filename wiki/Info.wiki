@@ -47,7 +47,7 @@ The advanced settings screen allows you to configure the following settings:
   * Gmail label assigned to SMS
     SMS Backup will assign this label to backed up messages in Gmail.
   * Maximum number of items per backup
-    Some G1 users are reporting that their device gets sluggish after backing up too many messages in one batch. Therefore, this settings allows you to limit the number of messages sent during one backup. Any messages that are not backed up during that run will be backed up at as part of a later batch.
+    Some G1 users are reporting that their device gets sluggish after backing up too many messages in one backup batch. Therefore, this settings allows you to limit the number of messages sent during one batch. Any messages that are not backed up during that batch will be backed up as part of a later batch.
 
 ==Required Permissions==
 SMS Backup requires the following system permissions:
