@@ -43,6 +43,12 @@ Until Android Market provides update notifications, be sure to regularly check f
 This section is empty.
 
 ----
+==Share the Love==
+If you enjoy using SMS Backup, you can recommend this application to your friends by e-mail using the "Share" menu item.
+
+If you _LOVE_ SMS Backup, feel free to [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2T5U5ZFKAVYBG&lc=CH&item_name=SMS%20Backup&item_number=android%2dsms&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted donate] an amount of your choice! It will be much appreciated.
+
+
 ==Advanced Settings==
 The advanced settings screen allows you to configure the following settings:
   * Gmail label assigned to SMS
