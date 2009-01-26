@@ -9,7 +9,7 @@ You'll be able to browse and search your incoming and outgoing messages - neatly
 You need to have a Gmail account with IMAP enabled. See the [http://mail.google.com/support/bin/answer.py?hl=en&answer=77695 Enabling IMAP] Gmail help page to learn how to enable IMAP for your Gmail account.
 
 ==Installation==
-You will be able to download SMS Backup from Android Market. Go directly to the Android Market listing by clicking the following link on your device: [http://market.android.com/search?q=tv.studer.smssync Android Market listing].
+You will be able to download SMS Backup from Android Market. Go directly to the Android Market listing by clicking the following link on your device: [http://market.android.com/search?q=pname:tv.studer.smssync Android Market listing].
 Click the "Install" button and confirm the [#Required_Permissions required permissions].
 
 ==Configuration==
