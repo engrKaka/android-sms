@@ -4,7 +4,9 @@
 Thank you for all the nice feedback I'm receiving through the Android Market and by e-mail. I really appreciate it and it's nice that the application is helpful to a lot of people.
 
   * If you want to recommend SMS Backup to your friends, press the menu button, then choose "Share".
-  * You can absolutely use SMS Backup for free without having a guilty conscience! But if you insist, [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2T5U5ZFKAVYBG&lc=CH&item_name=SMS%20Backup&item_number=android%2dsms&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted donatations] will be gladly accepted. :-)
+  * You can absolutely use SMS Backup for free without having a guilty conscience! But if you insist, [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2T5U5ZFKAVYBG&lc=CH&item_name=SMS%20Backup&item_number=android%2dsms&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted donations] will be gladly accepted. :-)
+
+Christoph Studer <chstuder@gmail.com>
 ----
 
 This application allows you to automatically backup SMS messages on your Android device to Gmail.
