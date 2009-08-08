@@ -40,15 +40,14 @@ By default, SMS Backup runs in the background to automatically backup any new ar
 
 You should regularly check if there was an error backing up in the background by starting SMS Backup and looking at the state. In the future, we plan to put up a notification when an error is encountered during a background backup.
 
-
 ===Manual Backup===
 You can at any time initiate a manual backup by starting SMS Backup and clicking on the "Backup" button. The progress of the backup will be shown on the screen.
 
-==Update==
-Until Android Market provides update notifications, be sure to regularly check for updates by pressing the menu key, then choosing "Update". This will send you to the Android Market listing of SMS Backup.
+===Stop Ongoing Backup ===
+Click the "Stop backup" button in order to cancel an ongoing backup. The next backup will continue exactly were the current backup left off. _(Since version 1.1.0)_
 
-==Troubleshooting==
-This section is empty.
+==Update==
+Either look for Android Market notifications for new application versions or regularly check for updates by starting SMS Backup, pressing the menu key, then choosing "Update". This will send you to the Android Market listing of SMS Backup where the installation status changes to "Update available" if there is a new version available.
 
 ----
 ==Share the Love==
@@ -59,10 +58,12 @@ If you _LOVE_ SMS Backup, feel free to [https://www.paypal.com/cgi-bin/webscr?cm
 
 ==Advanced Settings==
 The advanced settings screen allows you to configure the following settings:
+  * Mark as read _(Since version 1.1.0)_
+    When this setting is enabled, SMS Backup will mark the e-mails generated on Gmail as read, otherwise they'll appear as unread.
   * Gmail label assigned to SMS
     SMS Backup will assign this label to backed up messages in Gmail.
   * Maximum number of items per backup
-    Some G1 users are reporting that their device gets sluggish after backing up too many messages in one backup batch. Therefore, this settings allows you to limit the number of messages sent during one batch. Any messages that are not backed up during that batch will be backed up as part of a later batch.
+    If your device gets slow when backing up a lot of messages at once, this settings allows you to limit the number of messages sent during one batch. Any messages that are not backed up during that batch will be backed up as part of a later batch.
 
 ==Required Permissions==
 SMS Backup requires the following system permissions:
